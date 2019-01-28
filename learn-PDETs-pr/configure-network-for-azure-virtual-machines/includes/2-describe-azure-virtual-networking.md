@@ -12,7 +12,7 @@ Azure virtual networks provide key networking capabilities:
 - Communicate with on-premises resources
 - Route network traffic
 - Filter network traffic
-- Connect virtual networks
+- Connect virtual networks ys
  
 #### Network configurations for virtual machines
 
