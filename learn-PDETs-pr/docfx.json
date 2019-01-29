@@ -3,9 +3,18 @@
     "content": [
       {
         "files": [
-          "**/*.md",
-          "**/*.yml"
+          "achievements.yml"
         ],
+        "dest": "achievements/main/"
+      },
+      {
+        "src": "Azure",
+        "files": [
+          "**.yml"
+        ],
+        "dest": "modules"
+      },
+      {
         "exclude": [
           "**/obj/**",
           "**/includes/**",
@@ -14,15 +23,32 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices"
+          "ThirdPartyNotices",
+          "configure-network-for-azure-virtual-machines/**",
+          "connect-an-app-to-azure-storage/**",
+          "control-and-organize-with-azure-resource-manager/**"
         ]
       }
     ],
     "resource": [
       {
+        "src": "azure",
         "files": [
+          "**/*.gif",
           "**/*.png",
-          "**/*.jpg"
+          "**/*.svg",
+          "**/*.jpg",
+          "**/*.jpeg"
+        ],
+        "dest": "modules"
+      },
+      {
+        "files": [
+          "**/*.gif",
+          "**/*.png",
+          "**/*.svg",
+          "**/*.jpg",
+          "**/*.jpeg"
         ],
         "exclude": [
           "**/obj/**",
@@ -32,16 +58,31 @@
         ]
       }
     ],
-    "overwrite": [],
-    "externalReference": [],
+    "overwrite": [
+      
+    ],
+    "externalReference": [
+      
+    ],
     "globalMetadata": {
       "breadcrumb_path": "/learn/breadcrumb/toc.json",
-      "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/learn",
+      "clicktale": true,
+      "uhfHeaderId": "MSDocsHeader-Learn"
     },
-    "fileMetadata": {},
-    "template": [],
-    "dest": "learn-PDETs-pr",
+    "fileMetadata": {
+      "brand": {
+        "azure/**/*.yml": "azure"
+      },
+      "sandbox-disabled": {
+        
+      }
+    },
+    "template": [
+      
+    ],
+    "dest": "learn-pr",
     "markdownEngineName": "markdig"
   }
 }
