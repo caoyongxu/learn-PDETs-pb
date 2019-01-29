@@ -34,7 +34,3 @@ units:
 - learn.configure-the-network-for-your-virtual-machines.3-exercise-create-azure-virtual-network
 - learn.configure-the-network-for-your-virtual-machines.4-explore-azure-vpn-gateway
 - learn.configure-the-network-for-your-virtual-machines.5-exercise-create-azure-vpn-gateway
-- learn.configure-the-network-for-your-virtual-machines.6-describe-azure-expressroute
-- learn.configure-the-network-for-your-virtual-machines.7-knowledge-check-azure-expressroute
-- learn.configure-the-network-for-your-virtual-machines.8-summary
-achievement: learn.configure-the-network-for-your-virtual-machines.badge
