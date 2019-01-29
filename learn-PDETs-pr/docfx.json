@@ -8,7 +8,7 @@
         "dest": "achievements/main/"
       },
       {
-        "src": "Azure",
+        "src": "pdets",
         "files": [
           "**/*.md",
           "**/*.yml" 
