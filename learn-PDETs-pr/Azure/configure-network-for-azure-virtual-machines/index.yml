@@ -34,3 +34,5 @@ units:
 - learn.configure-the-network-for-your-virtual-machines.3-exercise-create-azure-virtual-network
 - learn.configure-the-network-for-your-virtual-machines.4-explore-azure-vpn-gateway
 - learn.configure-the-network-for-your-virtual-machines.5-exercise-create-azure-vpn-gateway
+badge:
+  uid: learn.creating-and-managing-entitlements-in-dynamics-365.badge
