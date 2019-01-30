@@ -5,17 +5,20 @@
         "files": [
           "achievements.yml"
         ],
-        "dest": "achievements/master/"
+        "dest": "achievements/main/"
       },
       {
         "src": "azure",
         "files": [
-          "**/*.md",
-          "**/*.yml"
+          "**.yml"
         ],
         "dest": "modules"
       },
       {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
         "exclude": [
           "**/obj/**",
           "**/includes/**",
