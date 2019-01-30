@@ -25,9 +25,7 @@
           "LICENSE",
           "LICENSE-CODE",
           "ThirdPartyNotices",
-          "configure-network-for-azure-virtual-machines/**",
-          "connect-an-app-to-azure-storage/**",
-          "control-and-organize-with-azure-resource-manager/**"
+          
         ]
       }
     ],
@@ -66,7 +64,7 @@
       
     ],
     "globalMetadata": {
-      "breadcrumb_path": "/learn/breadcrumb/toc.json",
+      "breadcrumb_path": "/learn-PDETs-pr/breadcrumb/toc.json",
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/learn",
       "clicktale": true,
@@ -83,7 +81,7 @@
     "template": [
       
     ],
-    "dest": "learn-pr",
+    "dest": "learn-PDETs-pr",
     "markdownEngineName": "markdig"
   }
 }
