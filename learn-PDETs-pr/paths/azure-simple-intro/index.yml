@@ -32,5 +32,7 @@ products:
 - azure-virtual-machines
 modules:
 - learn.cnet-for-azure-vm
+- learn.cnet-for-azure-vm
+- learn.cnet-for-azure-vm
 trophy:
   uid: learn.create-powerapps.trophy
