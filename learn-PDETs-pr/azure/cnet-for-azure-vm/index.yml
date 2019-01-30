@@ -29,10 +29,10 @@ products:
 - azure
 - azure-virtual-machines
 units:
-- learn.cnet-for-azure-vm.1-introduction
-- learn.cnet-for-azure-vm.2-describe-azure-virtual-networking
-- learn.cnet-for-azure-vm.3-exercise-create-azure-virtual-network
-- learn.cnet-for-azure-vm.4-explore-azure-vpn-gateway
-- learn.cnet-for-azure-vm.5-exercise-create-azure-vpn-gateway
+- learn-PDETs-pr.cnet-for-azure-vm.1-introduction
+- learn-PDETs-pr.cnet-for-azure-vm.2-describe-azure-virtual-networking
+- learn-PDETs-pr.cnet-for-azure-vm.3-exercise-create-azure-virtual-network
+- learn-PDETs-pr.cnet-for-azure-vm.4-explore-azure-vpn-gateway
+- learn-PDETs-pr.cnet-for-azure-vm.5-exercise-create-azure-vpn-gateway
 badge:
   uid: learn.creating-and-managing-entitlements-in-dynamics-365.badge
