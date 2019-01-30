@@ -5,13 +5,13 @@
         "files": [
           "achievements.yml"
         ],
-        "dest": "achievements/main/"
+        "dest": "achievements/master/"
       },
       {
         "src": "azure",
         "files": [
           "**/*.md",
-          "**/*.yml" 
+          "**/*.yml"
         ],
         "dest": "modules"
       },
@@ -25,7 +25,6 @@
           "LICENSE",
           "LICENSE-CODE",
           "ThirdPartyNotices"
-          
         ]
       }
     ],
@@ -64,7 +63,7 @@
       
     ],
     "globalMetadata": {
-      "breadcrumb_path": "/learn-PDETs-pr/breadcrumb/toc.json",
+      "breadcrumb_path": "/learn/breadcrumb/toc.json",
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/learn",
       "clicktale": true,
