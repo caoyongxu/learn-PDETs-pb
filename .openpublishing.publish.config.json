@@ -28,6 +28,7 @@
       }
     }
   ],
+  "enable_incremental_build": false,
   "notification_subscribers": [
     
   ],
