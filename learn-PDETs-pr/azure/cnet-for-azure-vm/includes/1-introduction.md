@@ -11,6 +11,13 @@ By the end of this module, you will be able to:
 - Create an Azure VPN Gateway
 - Identify the features and benefits of Azure ExpressRoute
 
+## Test a Video on YT
+> [!VIDEO https://channel9.msdn.com/Series/Youve-Got-Key-Values-A-Redis-Jump-Start/03/player]
+
+> [!VIDEO https://www.youtube.com/embed/iAtwVM-Z7rY]
+
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE1XVQS]
+
 ## Prerequisites
 
 [!include[](prerequisites.md)]
