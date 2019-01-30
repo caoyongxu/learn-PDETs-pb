@@ -33,17 +33,6 @@
     ],
     "resource": [
       {
-        "src": "azure",
-        "files": [
-          "**/*.gif",
-          "**/*.png",
-          "**/*.svg",
-          "**/*.jpg",
-          "**/*.jpeg"
-        ],
-        "dest": "modules"
-      },
-      {
         "files": [
           "**/*.gif",
           "**/*.png",
@@ -73,8 +62,12 @@
       "clicktale": true,
       "uhfHeaderId": "MSDocsHeader-Learn"
     },
-    "fileMetadata": {},
-    "template": [],
+    "fileMetadata": {
+      
+    },
+    "template": [
+      
+    ],
     "dest": "learn-PDETs-pr",
     "markdownEngineName": "markdig"
   }
