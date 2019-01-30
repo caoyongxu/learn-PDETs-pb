@@ -20,7 +20,7 @@ abstract: |
   - Learn to work with Azure ExpressRoute
 prerequisites: |
     [!include[](includes/prerequisites.md)]
-iconUrl: /learn-PDETs-pr/achievements/access-data-with-cosmos-db-and-sql-api.svg
+iconUrl: /learn/achievements/access-data-with-cosmos-db-and-sql-api.svg
 levels:
 - intermediate
 roles:
