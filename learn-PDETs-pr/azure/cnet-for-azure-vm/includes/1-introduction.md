@@ -24,3 +24,5 @@ By the end of this module, you will be able to:
 
 > [!IMPORTANT]
 > The exercises in this module require a full Azure subscription. The exercises are optional and are not required to complete this module. Participating in the interactive exercises in this module will result in charges billed to the Azure subscription you use to complete them.  Incurred charges can be minimized by cleaning up the resources you create as soon as possible. Cleanup directions are included in the final unit.
+
+Test a message
