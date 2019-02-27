@@ -20,9 +20,13 @@ quiz:
     choices:
       - content: "speakers"
         isCorrect: false
+        explanation: "test"
       - content: "mouse"
         isCorrect: true
+        explanation: "test"
       - content: "keyboard"
         isCorrect: true
+        explanation: "test"
       - content: "motherboard"
         isCorrect: false
+        explanation: "test"
