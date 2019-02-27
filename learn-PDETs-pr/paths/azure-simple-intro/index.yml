@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn.azure-simple-intro
+metadata:
+  title: Azure Simple INTOR - Test
+  description: only include 1 module
+  brand: azure
+  ms.date: 12/27/2018
+  author: markjulmar
+  ms.author: smmark
+  #ms.learn-contact: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Azure Simple INTOR - Test
+summary: |
+  Interested in the cloud, but aren't quite sure what it can do for you? This path is the place to start.
+
+#prerequisites: None
+iconUrl: /learn/achievements/azure-fundamentals.svg
+levels:
+- beginner
+roles:
+- developer
+- solution-architect
+- administrator
+- business-analyst
+- business-user
+products:
+- azure
+- azure-portal
+- azure-resource-manager
+- azure-storage
+- azure-virtual-machines
+modules:
+- learn.cnet-for-azure-vm
+- learn.cnet-for-azure-vm
+- learn.cnet-for-azure-vm
+trophy:
+  uid: learn.create-powerapps.trophy
