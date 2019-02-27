@@ -40,10 +40,7 @@ You can use Outlook to keep track of your personal appointments, or schedule mee
 
 
 #### Video: Create Appointments and Meetings
-
-
-<iframe title="Video: Create Appointments and Meetings" src="https://www.microsoft.com/en-us/videoplayer/embed/RWfzsI?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-us" width="820" height="500" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-</iframe>
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWfzsI]
 
 [Full screen view](https://www.microsoft.com/en-us/videoplayer/embed/RWfzsI?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-us)
 

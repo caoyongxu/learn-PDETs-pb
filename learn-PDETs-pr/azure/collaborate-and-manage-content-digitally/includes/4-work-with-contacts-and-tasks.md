@@ -24,9 +24,7 @@ Keep track of everyone you communicate with by creating and editing contacts in 
 
 
 #### Video: Add a Contact
-
-<iframe title="Video: Add a Contact" src="https://www.microsoft.com/en-us/videoplayer/embed/RWfyHw?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-us" width="820" height="500" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-</iframe>
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWfyHw]
 
 [Full screen view](https://www.microsoft.com/en-us/videoplayer/embed/RWfyHw?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-us)
 
