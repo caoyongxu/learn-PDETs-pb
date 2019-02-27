@@ -1,7 +1,7 @@
 ### Lesson Overview - Online Safety and Privacy
 We can get a lot done using the Internet and the Web. However, there are some safety and privacy risks to keep in mind as you use the Internet.
 
-![Illustration with graphics of files being protected](../..\Linked_Image_Files\Illustration_-_Safety_and_Privacy.png)
+![Illustration with graphics of files being protected](../media/Illustration_-_Safety_and_Privacy.png)
 
 In this lesson, you will learn about some of the safety risks that can affect you when you are using the Internet, and tips for saying safe and keeping your information private online.
 
