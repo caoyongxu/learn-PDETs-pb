@@ -29,4 +29,4 @@ units:
 - learn.wwl-playground.access-information-online.search-the-web
 - learn.wwl-playground.access-information-online.summary
 badge:
-  uid: learn.data-ai.transform-data-with-azure-stream-analytics.badge
+  uid: learn.wwl-playground.access-information-online.badge
