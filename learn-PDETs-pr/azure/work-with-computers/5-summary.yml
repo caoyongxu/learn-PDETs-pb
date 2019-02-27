@@ -16,6 +16,7 @@ content: |
 quiz:
   title: Check your knowledge
   questions:
+  
     content: "Which of the following parts of a computer are considered input devices?(Select all that apply)"
     choices:
       - content: "speakers"
