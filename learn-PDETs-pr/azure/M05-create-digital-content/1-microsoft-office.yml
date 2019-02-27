@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.create-digital-content.microsoft-office
+title: Microsoft Office
+metadata:
+  title: Microsoft Office - Learn
+  description: Microsoft Office - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/1-microsoft-office.md)]

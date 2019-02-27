@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn.wwl-playground.create-digital-content
+metadata:
+  title: Create Digital Content - Learn
+  description: Create Digital Content - Learn
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Create Digital Content
+summary: "summary"
+abstract: | 
+  In this module, you will:
+  - Microsoft Office
+  - Work with Word Documents
+  - Work with Text
+  - Work with Objects
+  - Do More with Word
+  - Work with PDFs in Word
+prerequisites: None.
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- data-engineer
+products:
+- azure
+units:
+- learn.wwl-playground.create-digital-content.microsoft-office
+- learn.wwl-playground.create-digital-content.work-with-word-documents
+- learn.wwl-playground.create-digital-content.work-with-text
+- learn.wwl-playground.create-digital-content.work-with-objects
+- learn.wwl-playground.create-digital-content.do-more-with-word
+- learn.wwl-playground.create-digital-content.work-with-pdfs-in-word
+- learn.wwl-playground.create-digital-content.summary
+badge:
+  uid: learn.wwl-playground.create-digital-content.badge

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.create-digital-content.do-more-with-word
+title: Do More with Word
+metadata:
+  title: Do More with Word - Learn
+  description: Do More with Word - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/5-do-more-with-word.md)]
