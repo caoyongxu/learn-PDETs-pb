@@ -4,7 +4,7 @@ The Web is made up of a massive collection of information across over a billion 
 
 You will often need to find information online without knowing the website or URL. **Search engines** solve this problem and allow you to search through large collections of content to find what you are looking for.
 
-![illustration - various webpages ](../..\Linked_Image_Files\Search_the_Web_Illustration.jpg)
+![illustration - various webpages ](../media/Search_the_Web_Illustration.jpg)
 
 This lesson will cover the basics of searching the web using web search engines and web browsers.
 

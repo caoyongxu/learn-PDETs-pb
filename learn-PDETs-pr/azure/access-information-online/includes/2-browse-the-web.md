@@ -2,7 +2,7 @@
 
 One of the most popular uses of the Internet is the **World Wide Web**, also referred to as the Web. Many people use the terms Internet and Web to refer to the same thing, but they are different from one another.
 
-![Illustration - character browsing the Web from desktop computer](../..\Linked_Image_Files\Browse_the_Web_Illustration.jpg)
+![Illustration - character browsing the Web from desktop computer](../media/Browse_the_Web_Illustration.jpg)
 
 In this lesson, you'll learn how to browse the web to access information online.
 

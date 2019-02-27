@@ -2,7 +2,7 @@
 
 The Internet makes many things possible for us, from communication to learning to entertainment. We'll learn more about what the Internet is and how to connect to it in this lesson.
 
-![Illustration - Man on a laptop connected to a global network.](../..\Linked_Image_Files\Get_Connected_Illustration_-_the_Internet.png)
+![Illustration - Man on a laptop connected to a global network.](../media/Get_Connected_Illustration_-_the_Internet.png)
 
 **By the end of this lesson, you will be able to:**
 
