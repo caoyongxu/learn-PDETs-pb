@@ -1,0 +1,32 @@
+### YamlMime:Module
+uid: learn.wwl-playground.access-information-online
+metadata:
+  title: Access Information Online - Learn
+  description: Access Information Online - Learn
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Access Information Online
+summary: "summary"
+abstract: | 
+  In this module, you will:
+  - Get Connected
+  - Browse the Web
+  - Search the Web
+prerequisites: None.
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- data-engineer
+products:
+- azure
+units:
+- learn.wwl-playground.access-information-online.get-connected
+- learn.wwl-playground.access-information-online.browse-the-web
+- learn.wwl-playground.access-information-online.search-the-web
+- learn.wwl-playground.access-information-online.summary
+badge:
+  uid: learn.data-ai.transform-data-with-azure-stream-analytics.badge
