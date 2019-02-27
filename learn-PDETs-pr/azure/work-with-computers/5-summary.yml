@@ -1,0 +1,28 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.work-with-computers.summary
+title: Summary
+metadata:
+  title: Summary - Learn
+  description: Summary - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/5-summary.md)]
+quiz:
+  title: Check your knowledge
+  questions:
+    content: "Which of the following parts of a computer are considered input devices?(Select all that apply)"
+    choices:
+      - content: "speakers"
+        isCorrect: false
+      - content: "mouse"
+        isCorrect: true
+      - content: "keyboard"
+        isCorrect: true
+      - content: "motherboard"
+        isCorrect: false
