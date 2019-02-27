@@ -4,7 +4,7 @@ Thanks to the Internet, we can store information from one device and access it u
 
 Storing content on the cloud makes it easier to access our information from anywhere, instead of storing it locally, or only on our computer.
 
-![Illustration of character accessing information from the cloud](../..\Linked_Image_Files\MS_Illustration_-_Use_the_Cloud.png)
+![Illustration of character accessing information from the cloud](../media/MS_Illustration_-_Use_the_Cloud.png)
 
 In this lesson, you will learn about the Cloud and how you can use it.
 

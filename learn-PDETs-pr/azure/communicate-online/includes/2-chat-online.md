@@ -2,7 +2,7 @@
 
 The Internet and the Web make it possible for us to stay in touch with others near and far. There are apps and services that make it easy to communicate with others online through **instant messaging (IM)**, **voice calling**, and **video calling**.
 
-![Illustration - 2 characters sending instant messages using mobile devices](../..\Linked_Image_Files\Chat_Online_Illustration.jpg)
+![Illustration - 2 characters sending instant messages using mobile devices](../media/Chat_Online_Illustration.jpg)
 
 In this lesson, we'll explore these methods of communicating online.
 

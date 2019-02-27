@@ -2,7 +2,7 @@
 
 With the way work gets done today, it's great to know how to collaborate with others using digital tools. 
 
-![Illustration of characters collaborating with various documents and devices](../..\Linked_Image_Files\MS_Collaboration_Illustration_2.png)
+![Illustration of characters collaborating with various documents and devices](../media/MS_Collaboration_Illustration_2.png)
 
 In this lesson, you will learn how to collaborate with your peers or colleagues to access and work on documents together.
 

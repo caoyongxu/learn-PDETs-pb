@@ -2,7 +2,7 @@
 
 There are many ways to stay in touch with others using the Internet. One of the most popular methods of communicating with others online is using email, or electronic mail.
 
-![Illustration of character receiving email to computer](../..\Linked_Image_Files\Email_Illustration.png)
+![Illustration of character receiving email to computer](../media/Email_Illustration.png)
 
 In this lesson, you will learn how to communicate online using email.
 

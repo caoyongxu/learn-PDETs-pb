@@ -2,7 +2,7 @@
 
 Digital calendars are a great way to keep track of meetings and tasks on your own or with the people you work with.
 
-![Illustration with graphics of a calendar and a clock](../..\Linked_Image_Files\Illustration_-_Manage_Time_Digitally.png)
+![Illustration with graphics of a calendar and a clock](../media/Illustration_-_Manage_Time_Digitally.png)
 
 In this lesson, you will learn about Outlook Calendar, the calendar feature of the Outlook mail app.
 

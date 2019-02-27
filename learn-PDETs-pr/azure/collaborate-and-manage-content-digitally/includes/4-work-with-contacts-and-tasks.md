@@ -2,7 +2,7 @@
 
 In addition to managing meetings and appointments, you can use calendar apps like Outlook to keep track of your contacts and manage your tasks in an organized way.
 
-![Illustration with graphics of checklists, people and time](../..\Linked_Image_Files\Illustration_-_Manage_Contacts_and_Tasks.png)
+![Illustration with graphics of checklists, people and time](../media/Illustration_-_Manage_Contacts_and_Tasks.png)
 
 In this lesson, you will learn more about how Outlook helps you stay organized.
 
