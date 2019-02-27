@@ -75,9 +75,7 @@ Sending a message to someone is quick and simple using email.  You can write an
 
 
 #### Video: Sending Email with Outlook
-
-<iframe title="Sending Email with Outlook" src="https://www.microsoft.com/en-us/videoplayer/embed/RWfqjw?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-us" width="820" height="500" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-</iframe>
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWfqjw]
 
 [Full screen view](https://www.microsoft.com/en-us/videoplayer/embed/RWfqjw?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-us)
 
