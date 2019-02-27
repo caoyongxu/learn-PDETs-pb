@@ -1,0 +1,30 @@
+### YamlMime:Module
+uid: learn.wwl-playground.participate-safely-and-responsibly-online
+metadata:
+  title: Participate Safely and Responsibly Online - Learn
+  description: Participate Safely and Responsibly Online - Learn
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Participate Safely and Responsibly Online
+summary: "summary"
+abstract: | 
+  In this module, you will:
+  - Online Safety and Privacy
+  - Online Civility
+prerequisites: None.
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- data-engineer
+products:
+- azure
+units:
+- learn.wwl-playground.participate-safely-and-responsibly-online.online-safety-and-privacy
+- learn.wwl-playground.participate-safely-and-responsibly-online.online-civility
+- learn.wwl-playground.participate-safely-and-responsibly-online.summary
+badge:
+  uid: learn.wwl-playground.participate-safely-and-responsibly-online.badge
