@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.collaborate-and-manage-content-digitally.use-the-cloud
+title: Use the Cloud
+metadata:
+  title: Use the Cloud - Learn
+  description: Use the Cloud - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/1-use-the-cloud.md)]

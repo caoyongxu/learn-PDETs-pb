@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.collaborate-and-manage-content-digitally.manage-time-with-a-digital-calendar
+title: Manage Time with a Digital Calendar
+metadata:
+  title: Manage Time with a Digital Calendar - Learn
+  description: Manage Time with a Digital Calendar - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/3-manage-time-with-a-digital-calendar.md)]
