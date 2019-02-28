@@ -27,5 +27,6 @@ units:
 - learn.wwl-playground.work-with-connected-devices.introduction
 - learn.wwl-playground.work-with-connected-devices.portable-storage-devices
 - learn.wwl-playground.work-with-connected-devices.bluetooth-devices
+- learn.wwl-playground.work-with-connected-devices.summary
 badge:
   uid: learn.wwl-playground.work-with-connected-devices.badge
