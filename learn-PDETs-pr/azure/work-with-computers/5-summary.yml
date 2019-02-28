@@ -11,23 +11,61 @@ metadata:
   ms.prod: learning-azure
   ROBOTS: NOINDEX
 durationInMinutes: 5
-content: |
-  [!include[](includes/5-summary.md)]
+
 quiz:
   title: Check your knowledge
   questions:
 
-  - content: "FAKE: Which of the following parts of a computer are considered input devices?(Select all that apply)"
+  - content: "Harold will be attending university and he needs to purchase a computer.  He wants a computer with a built-in keyboard that he can use to type  his notes during lectures and also continue working on his assignments and essays at home. He will need to install various applications and programs on his device to complete his assignments.  What is the best type of computer for his needs?"
     choices:
-      - content: "speakers"
+      - content: "A desktop"
         isCorrect: false
-        explanation: "test"
-      - content: "mouse"
+        explanation: "incorrect choice"
+      - content: "A laptop"
         isCorrect: true
-        explanation: "test"
-      - content: "keyboard"
+        explanation: "A laptop computer is portable, so Harold will be able to carry it to and from class.  Tablets and smartphones are also portable, but do not typically have built-in keyboards.  Laptops have a wider selection of full-featured applications for installation than tablets and smartphones."
+      - content: "A tablet"
         isCorrect: false
-        explanation: "test"
-      - content: "motherboard"
+        explanation: "incorrect choice"
+      - content: "A smartphone"
         isCorrect: false
-        explanation: "test"
+        explanation: "incorrect choice"
+  - content: "An operating system is the most important ___________ on the computer."
+    choices:
+      - content: "hardware component"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "software"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "peripheral device"
+        isCorrect: false
+        explanation: "incorrect choice"
+  - content: "What happens when you select the Minimize (-) button on / at the top of an application window?"
+    choices:
+      - content: "The window is closed"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "The window is temporarily hidden"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "The window is opened in full screen"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "The window is moved to the side of the screen"
+        isCorrect: false
+        explanation: "incorrect choice"
+  - content: "In Windows 10, you can enable and modify accessibilty feature settings in which menu of the Settings app?"
+    choices:
+      - content: "Devices"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Network and Internet"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "Ease of Access"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "Update &amp; Security"
+        isCorrect: false
+        explanation: "incorrect choice"
