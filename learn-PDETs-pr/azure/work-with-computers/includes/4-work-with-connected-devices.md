@@ -1,4 +1,3 @@
-### Work with Connected Devices
 
 Computers are built with the hardware that is necessary for the computer to operate at a basic level. However, there are times when you might want to add functionality to your computer by connecting an external device.
 

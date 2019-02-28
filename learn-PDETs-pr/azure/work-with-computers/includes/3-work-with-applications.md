@@ -1,4 +1,4 @@
-### Lesson Overview - Work with Applications
+
 Applications, also known as apps, are software programs that we can use to get things done on our computers. Every day, new applications are developed to solve new problems around the world.
 
 ![Illustration of various applications on a mobile device](../media/Applications_Illustration.jpg)

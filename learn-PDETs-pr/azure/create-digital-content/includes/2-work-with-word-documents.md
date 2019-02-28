@@ -1,4 +1,4 @@
-### Lesson Overview - Work with Word Documents
+
 Microsoft Word is an Office app that allows you to create and work with text documents. With Microsoft Word, you can accomplish your daily tasks and express your ideas in a professional way.
 
 ![Screenshot of Microsoft Word interface while editting a report document](../media/Microsoft_Word_Screenshot.png)

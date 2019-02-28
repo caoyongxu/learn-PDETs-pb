@@ -1,4 +1,4 @@
-### Lesson Overview - Work with Text
+
 Microsoft Word is fundamentally a word processing program, which means it's designed to allow you to create, edit and format text-based documents.
 
 ![Screenshot - editting text in Microsoft Word](../media/Work_with_Text_Screenshot.png)

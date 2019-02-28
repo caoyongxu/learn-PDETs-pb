@@ -1,4 +1,4 @@
-### Lesson Overview - Other Types of Documents
+
 By default when you create a document in Word, it will be saved as a Word document, with the extension *.doc* or *.docx*. Text documents can also be saved as view-only files using the PDF file type.
 
 ![Illustration with graphics of various file types](../media/Office_-_Work_with_Files.png)

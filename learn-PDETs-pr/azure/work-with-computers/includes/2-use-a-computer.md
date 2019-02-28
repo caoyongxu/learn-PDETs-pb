@@ -1,4 +1,4 @@
-### Lesson Overview - Use a Computer
+
 In this lesson, you will learn how to operate a computer to perform basic tasks.
 
 ![Desktop computer with graphical elements on monitor](../media/Opearting_System_Illustration.jpg)

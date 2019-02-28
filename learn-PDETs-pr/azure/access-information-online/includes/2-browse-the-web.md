@@ -1,4 +1,3 @@
-### Lesson Overview - Browse the Web
 
 One of the most popular uses of the Internet is the **World Wide Web**, also referred to as the Web. Many people use the terms Internet and Web to refer to the same thing, but they are different from one another.
 

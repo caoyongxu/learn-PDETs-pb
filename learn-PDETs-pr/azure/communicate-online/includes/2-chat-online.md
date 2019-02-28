@@ -1,4 +1,3 @@
-### Lesson Overview - Chat Online
 
 The Internet and the Web make it possible for us to stay in touch with others near and far. There are apps and services that make it easy to communicate with others online through **instant messaging (IM)**, **voice calling**, and **video calling**.
 

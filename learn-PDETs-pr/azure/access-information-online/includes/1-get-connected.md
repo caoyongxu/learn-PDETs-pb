@@ -1,4 +1,3 @@
-### Lesson Overview - Get Connected
 
 The Internet makes many things possible for us, from communication to learning to entertainment. We'll learn more about what the Internet is and how to connect to it in this lesson.
 

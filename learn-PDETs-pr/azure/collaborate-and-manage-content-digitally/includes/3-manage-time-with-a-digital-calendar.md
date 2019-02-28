@@ -1,4 +1,3 @@
-### Lesson Overview - Manage Time with a Digital Calendar
 
 Digital calendars are a great way to keep track of meetings and tasks on your own or with the people you work with.
 

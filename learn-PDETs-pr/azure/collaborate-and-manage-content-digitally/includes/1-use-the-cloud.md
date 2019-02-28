@@ -1,4 +1,3 @@
-### Lesson Overview - Use the Cloud
 
 Thanks to the Internet, we can store information from one device and access it using another, almost instantly. **The cloud** is a collection of software services that run across the world using the Internet, instead of running on a single user's computer.
 

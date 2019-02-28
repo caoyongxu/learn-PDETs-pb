@@ -1,4 +1,3 @@
-# Lesson Overview - Work with Objects
 
 You can do a lot with Microsoft Word when you know how to add and edit text, and insert and format objects. There are several additional features of Microsoft Word that can make it easier to create digital content.
 

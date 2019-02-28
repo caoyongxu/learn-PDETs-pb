@@ -1,4 +1,3 @@
-### Lesson Overview - Share and Collaborate with Documents
 
 With the way work gets done today, it's great to know how to collaborate with others using digital tools. 
 

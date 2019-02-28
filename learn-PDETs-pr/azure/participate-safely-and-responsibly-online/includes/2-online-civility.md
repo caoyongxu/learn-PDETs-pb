@@ -1,4 +1,4 @@
-### Lesson Overview - Online Civility
+
 We can use the Internet to access lots of information and communicate with others, but we have to make sure we're behaving as responsible digital citizens.
 
 ![Illustration of various characters collaborating digitally](../media/Illustration_Online_Civility.png)

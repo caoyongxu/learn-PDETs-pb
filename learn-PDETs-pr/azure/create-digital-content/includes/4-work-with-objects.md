@@ -1,4 +1,4 @@
-### Lesson Overview - Work with Objects
+
 Microsoft Word is designed as a word processing program, but in addition to working with text you can also add objects like shapes, charts, pictures and tables to your Word documents.
 
 ![Illustration with graphics of various types of objects including shapes, graphs, images and charts](../media/Illustration_-_Work_with_Objects.png)

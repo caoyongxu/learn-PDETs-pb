@@ -1,4 +1,4 @@
-### Lesson Overview - Interact with a Computer
+
 
 There are many types of computers that are used for everyday tasks.
 

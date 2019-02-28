@@ -1,4 +1,3 @@
-### Lesson Overview - Microsoft Office
 
 Microsoft Office is a package of software applications that makes it easy for you to be productive as you accomplish everyday tasks on your computer. In this lesson, you will be introduced to Microsoft Office and learn how you can use it for productivity in your daily work and personal activities.
 

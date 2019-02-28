@@ -1,4 +1,3 @@
-### Lesson Overview - Search the Web
 
 The Web is made up of a massive collection of information across over a billion websites. That's a lot of information to work with!
 

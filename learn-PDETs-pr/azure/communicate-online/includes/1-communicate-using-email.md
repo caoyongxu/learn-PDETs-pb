@@ -1,4 +1,3 @@
-### Lesson Overview - Communicate Using Email
 
 There are many ways to stay in touch with others using the Internet. One of the most popular methods of communicating with others online is using email, or electronic mail.
 

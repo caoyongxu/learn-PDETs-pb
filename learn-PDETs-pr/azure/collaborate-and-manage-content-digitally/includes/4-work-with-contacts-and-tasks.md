@@ -1,4 +1,3 @@
-### Lesson Overview - Work with Contacts and Tasks
 
 In addition to managing meetings and appointments, you can use calendar apps like Outlook to keep track of your contacts and manage your tasks in an organized way.
 
