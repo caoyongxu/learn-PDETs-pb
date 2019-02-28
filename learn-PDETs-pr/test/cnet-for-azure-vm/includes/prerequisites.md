@@ -1,4 +1,4 @@
-- Experience with creating Azure virtual machines
+- Experience with creating Azure virtual machines 
 - Thorough understanding of on-premises networking
 - Experience with Azure PowerShell, the Azure CLI, and Remote Desktop
 
