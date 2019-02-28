@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn.wwl-playground.use-a-computer
+metadata:
+  title: Use a Computer - Learn
+  description: Use a Computer - Learn
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+title: Use a Computer
+summary: "you will learn how to operate a computer to perform basic tasks."
+abstract: | 
+  In this module, you will be able to:
+ - Describe the role of an operating system.
+ - Navigate the Windows 10 operating system.
+ - Organize files and folders in Windows 10.
+ - Use the right-click to access system features.
+ - Customize your operating system desktop.
+prerequisites: None.
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+units:
+- learn.wwl-playground.use-a-computer.introduction
+- learn.wwl-playground.use-a-computer.intro-to-operating-systems
+- learn.wwl-playground.use-a-computer.get-to-know-the-operating-system
+- learn.wwl-playground.use-a-computer.work-with-files-and-folders
+- learn.wwl-playground.use-a-computer.understand-the-right-click
+- learn.wwl-playground.use-a-computer.work-with-windows
+- learn.wwl-playground.use-a-computer.personalize-your-desktop
+- learn.wwl-playground.use-a-computer.use-virtual-assistants
+- learn.wwl-playground.use-a-computer.use-accessibility-features
+- learn.wwl-playground.use-a-computer.summary
+badge:
+  uid: learn.wwl-playground.use-a-computer.badge

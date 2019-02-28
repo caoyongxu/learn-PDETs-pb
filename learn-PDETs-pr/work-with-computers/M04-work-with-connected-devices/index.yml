@@ -1,0 +1,31 @@
+### YamlMime:Module
+uid: learn.wwl-playground.work-with-connected-devices
+metadata:
+  title: Work with Connected Devices - Learn
+  description: Work with Connected Devices - Learn
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Work with Connected Devices
+summary: "You will learn how to connect peripheral devices to your computer."
+abstract: | 
+  In this module, you will be able to:
+  - Describe types of peripheral devices and their uses
+  - Use portable storage devices
+  - Connect Bluetooth devices to a computer
+prerequisites: None.
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+- beginner
+roles:
+- data-engineer
+products:
+- azure
+units:
+- learn.wwl-playground.work-with-connected-devices.introduction
+- learn.wwl-playground.work-with-connected-devices.portable-storage-devices
+- learn.wwl-playground.work-with-connected-devices.bluetooth-devices
+badge:
+  uid: learn.wwl-playground.work-with-connected-devices.badge

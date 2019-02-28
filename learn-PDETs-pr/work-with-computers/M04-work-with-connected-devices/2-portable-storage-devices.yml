@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.work-with-connected-devices.portable-storage-devices
+title: Portable Storage Devices
+metadata:
+  title: Portable Storage Devices - Learn
+  description: Portable Storage Devices - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/2-portable-storage-devices.md)]

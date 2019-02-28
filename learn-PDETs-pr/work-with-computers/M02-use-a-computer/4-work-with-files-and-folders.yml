@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.use-a-computer.work-with-files-and-folders
+title: Work with Files and Folders
+metadata:
+  title: Work with Files and Folders - Learn
+  description: Work with Files and Folders - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/4-work-with-files-and-folders.md)]
