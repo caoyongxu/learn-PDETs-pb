@@ -16,17 +16,42 @@ quiz:
   title: Check your knowledge
   questions:
 
-  - content: "FAKE: Which of the following parts of a computer are considered input devices?(Select all that apply)"
+  - content: "What does it mean when a computer is 'online'?"
     choices:
-      - content: "speakers"
+      - content: "It is fully charged"
         isCorrect: false
-        explanation: "test"
-      - content: "mouse"
+        explanation: "incorrect choice"
+      - content: "It is waiting to connect to the Internet"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "It is connected to the Internet"
         isCorrect: true
-        explanation: "test"
-      - content: "keyboard"
+        explanation: "correct choice"
+  - content: "Which of the following features of the browser allows you to open multiple webpages in the same window?"
+    choices:
+      - content: "Tabs"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "Favorites"
         isCorrect: false
-        explanation: "test"
-      - content: "motherboard"
+        explanation: "incorrect choice"
+      - content: "History"
         isCorrect: false
-        explanation: "test"
+        explanation: "incorrect choice"
+      - content: "Address bar"
+        isCorrect: false
+        explanation: "incorrect choice"
+  - content: "Which of the following opens a new webpage when clicked?"
+    choices:
+      - content: "A hyperlink"
+        isCorrect: true
+        explanation: "correct choice"
+      - content: "A webpage"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "A URL"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "A tooltip"
+        isCorrect: false
+        explanation: "incorrect choice"
