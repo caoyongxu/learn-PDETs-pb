@@ -1,0 +1,31 @@
+### YamlMime:LearningPath
+uid: learn.digital-literacy.work-with-computers
+metadata:
+  title: Work with Computers - Learn
+  description: Work with Computers - Learn
+  brand: azure
+  ms.date: 12/27/2018
+  author: markjulmar
+  ms.author: smmark
+  #ms.learn-contact: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+title: Work with Computers
+summary: |
+  Computers play a big role in how people work and live today. Complete these lessons to learn how to interact with a computer and use software applications to get things done.
+
+#prerequisites: None
+iconUrl: /learn/achievements/azure-fundamentals.svg
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+modules:
+- learn.wwl-playground.interact-with-a-computer
+- learn.wwl-playground.use-a-computer
+- learn.wwl-playground.work-with-applications
+- learn.wwl-playground.work-with-connected-devices
+trophy:
+  uid: learn.digital-literacy.work-with-computers.trophy
