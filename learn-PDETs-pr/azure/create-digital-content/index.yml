@@ -9,7 +9,7 @@ metadata:
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
 title: Create Digital Content
-summary: "summary"
+summary: "Productivity tools help you create professional work using your computer. Complete these lessons to learns to learn how to use Microsoft Office to create and work with documents."
 abstract: | 
   In this module, you will:
   - Microsoft Office
@@ -23,9 +23,9 @@ iconUrl: /learn/achievements/generic-badge.svg
 levels:
 - beginner
 roles:
-- data-engineer
+- administrator
 products:
-- azure
+- windows
 units:
 - learn.wwl-playground.create-digital-content.microsoft-office
 - learn.wwl-playground.create-digital-content.work-with-word-documents

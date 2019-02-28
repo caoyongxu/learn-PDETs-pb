@@ -9,7 +9,7 @@ metadata:
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
 title: Communicate Online
-summary: "summary"
+summary: "There are many ways to stay in touch with others using the internet and the Web. Take these lessons to learn how to communicate using email, instant messaging, voice and video calling over the Internet. "
 abstract: | 
   In this module, you will:
   - Communicate Using Email
@@ -19,9 +19,9 @@ iconUrl: /learn/achievements/generic-badge.svg
 levels:
 - beginner
 roles:
-- data-engineer
+- administrator
 products:
-- azure
+- windows
 units:
 - learn.wwl-playground.communicate-online.communicate-using-email
 - learn.wwl-playground.communicate-online.chat-online

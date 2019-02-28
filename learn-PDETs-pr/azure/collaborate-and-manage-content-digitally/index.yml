@@ -9,7 +9,7 @@ metadata:
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
 title: Collaborate and Manage Content Digitally
-summary: "summary"
+summary: "Using the Cloud, we can collaborate and share information with others instantly. In these lessons, you'll learn how to store and share files online, and collaborate with others using digital calendars and organization programs."
 abstract: | 
   In this module, you will:
   - Use the Cloud
@@ -21,9 +21,9 @@ iconUrl: /learn/achievements/generic-badge.svg
 levels:
 - beginner
 roles:
-- data-engineer
+- administrator
 products:
-- azure
+- windows
 units:
 - learn.wwl-playground.collaborate-and-manage-content-digitally.use-the-cloud
 - learn.wwl-playground.collaborate-and-manage-content-digitally.share-and-collaborate-with-documents

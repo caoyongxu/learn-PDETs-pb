@@ -9,7 +9,7 @@ metadata:
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
 title: Work with Computers
-summary: "summary"
+summary: "Computers play a big role in how people work and live today. Complete these lessons to learn how to interact with a computer and use software applications to get things done."
 abstract: | 
   In this module, you will:
   - Interact with a Computer
@@ -21,9 +21,9 @@ iconUrl: /learn/achievements/generic-badge.svg
 levels:
 - beginner
 roles:
-- data-engineer
+- administrator
 products:
-- azure
+- windows
 units:
 - learn.wwl-playground.work-with-computers.interact-with-a-computer
 - learn.wwl-playground.work-with-computers.use-a-computer

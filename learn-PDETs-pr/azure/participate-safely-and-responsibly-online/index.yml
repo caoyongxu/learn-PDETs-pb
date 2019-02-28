@@ -9,7 +9,7 @@ metadata:
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
 title: Participate Safely and Responsibly Online
-summary: "summary"
+summary: "We benefit in many ways from the Internet, but there are some risks and responsibilities you should know about when you go online. Complete these lessons to learn how to be a digital citizen and protect yourself and your privacy online."
 abstract: | 
   In this module, you will:
   - Online Safety and Privacy
@@ -19,9 +19,9 @@ iconUrl: /learn/achievements/generic-badge.svg
 levels:
 - beginner
 roles:
-- data-engineer
+- administrator
 products:
-- azure
+- windows
 units:
 - learn.wwl-playground.participate-safely-and-responsibly-online.online-safety-and-privacy
 - learn.wwl-playground.participate-safely-and-responsibly-online.online-civility

@@ -9,7 +9,7 @@ metadata:
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
 title: Access Information Online
-summary: "summary"
+summary: "The Internet and the Web connect people across the world in new ways. Complete these lessons to learn how to connect to the Internet, browse the Web, and search the Web to find information online."
 abstract: | 
   In this module, you will:
   - Get Connected
@@ -20,9 +20,9 @@ iconUrl: /learn/achievements/generic-badge.svg
 levels:
 - beginner
 roles:
-- data-engineer
+- administrator
 products:
-- azure
+- windows
 units:
 - learn.wwl-playground.access-information-online.get-connected
 - learn.wwl-playground.access-information-online.browse-the-web

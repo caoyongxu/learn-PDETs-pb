@@ -9,7 +9,7 @@ metadata:
   ms.author: smmark
   #ms.learn-contact: smmark
   ms.topic: interactive-tutorial
-  ms.prod: learning-azure
+  ms.prod: learning-windows
 title: Digital Literacy
 summary: |
   Microsoft can help you develop the foundational skills to successfully use digital technologies. Digital literacy skills are the foundation to gaining the ability to use digital devices, software, and tools to discover, evaluate, use and create information.
@@ -19,17 +19,9 @@ iconUrl: /learn/achievements/azure-fundamentals.svg
 levels:
 - beginner
 roles:
-- developer
-- solution-architect
 - administrator
-- business-analyst
-- business-user
 products:
-- azure
-- azure-portal
-- azure-resource-manager
-- azure-storage
-- azure-virtual-machines
+- windows
 modules:
 - learn.wwl-playground.work-with-computers
 - learn.wwl-playground.access-information-online
