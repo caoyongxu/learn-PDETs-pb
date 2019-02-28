@@ -26,9 +26,7 @@ With Microsoft Word you can share your documents with other people so they can v
 
 #### Video: Share a Document
 
-
-<iframe title="Video: Share a Document" src="https://www.microsoft.com/en-us/videoplayer/embed/RE1TwOk?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-us" width="820" height="500" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-</iframe>
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE1TwOk]
 
 [Full screen view](https://www.microsoft.com/en-us/videoplayer/embed/RE1TwOk?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-us)
 
