@@ -1,0 +1,41 @@
+### YamlMime:LearningPath
+uid: learn.digital-literacy
+metadata:
+  title: Digital Literacy - Learn
+  description: Digital Literacy - Learn
+  brand: azure
+  ms.date: 12/27/2018
+  author: markjulmar
+  ms.author: smmark
+  #ms.learn-contact: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Digital Literacy
+summary: |
+  Microsoft can help you develop the foundational skills to successfully use digital technologies. Digital literacy skills are the foundation to gaining the ability to use digital devices, software, and tools to discover, evaluate, use and create information.
+
+#prerequisites: None
+iconUrl: /learn/achievements/azure-fundamentals.svg
+levels:
+- beginner
+roles:
+- developer
+- solution-architect
+- administrator
+- business-analyst
+- business-user
+products:
+- azure
+- azure-portal
+- azure-resource-manager
+- azure-storage
+- azure-virtual-machines
+modules:
+- learn.wwl-playground.work-with-computers
+- learn.wwl-playground.access-information-online
+- learn.wwl-playground.communicate-online
+- learn.wwl-playground.participate-safely-and-responsibly-online
+- learn.wwl-playground.create-digital-content
+- learn.wwl-playground.collaborate-and-manage-content-digitally
+trophy:
+  uid: learn.digital-literacy.trophy
