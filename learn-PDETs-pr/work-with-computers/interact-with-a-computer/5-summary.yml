@@ -1,0 +1,32 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.interact-with-a-computer.summary
+title: Summary
+metadata:
+  title: Summary - Learn
+  description: Summary - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+
+quiz:
+  title: Check your knowledge
+  questions:
+
+  - content: "Harold will be attending university and he needs to purchase a computer.  He wants a computer with a built-in keyboard that he can use to type  his notes during lectures and also continue working on his assignments and essays at home. He will need to install various applications and programs on his device to complete his assignments.  What is the best type of computer for his needs?"
+    choices:
+      - content: "A desktop"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "A laptop"
+        isCorrect: true
+        explanation: "A laptop computer is portable, so Harold will be able to carry it to and from class.  Tablets and smartphones are also portable, but do not typically have built-in keyboards.  Laptops have a wider selection of full-featured applications for installation than tablets and smartphones."
+      - content: "A tablet"
+        isCorrect: false
+        explanation: "incorrect choice"
+      - content: "A smartphone"
+        isCorrect: false
+        explanation: "incorrect choice"

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl-playground.interact-with-a-computer.parts-of-a-computer
+title: Parts of a Computer
+metadata:
+  title: Parts of a Computer - Learn
+  description: Parts of a Computer - Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-windows
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/3-parts-of-a-computer.md)]
