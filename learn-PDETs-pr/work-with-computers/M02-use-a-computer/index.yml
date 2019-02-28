@@ -11,7 +11,7 @@ metadata:
 title: Use a Computer
 summary: "you will learn how to operate a computer to perform basic tasks."
 abstract: | 
-  In this module, you will be able to:
+ In this module, you will be able to:
  - Describe the role of an operating system.
  - Navigate the Windows 10 operating system.
  - Organize files and folders in Windows 10.
@@ -19,7 +19,7 @@ abstract: |
  - Customize your operating system desktop.
 prerequisites: None.
 iconUrl: /learn/achievements/generic-badge.svg
-levels:
+levels: 
 - beginner
 roles:
 - administrator

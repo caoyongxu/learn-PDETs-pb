@@ -1,6 +1,6 @@
 Computers are built with the hardware that is necessary for the computer to operate at a basic level. However, there are times when you might want to add functionality to your computer by connecting an external device.
 
-![Illustrated image of pc ports and various devices](../..\Linked_Image_Files\Connected_Devices_Illustration.png)
+![Illustrated image of pc ports and various devices](../media/Connected_Devices_Illustration.png)
 
 These types of devices are called **peripheral** devices. They add functionality to your computer by providing **input** functions and/or **output** functions. An example of an input device is a keyboard, which allows a user to type information, or a scanner, which allows a user to scan a photo for the computer focus. An example of an output device is a speaker that outputs sound from the computer to the user, or a monitor, which outputs visual information to the user.
 
