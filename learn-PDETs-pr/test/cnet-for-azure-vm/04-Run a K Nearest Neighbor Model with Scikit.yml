@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.train-local-model-with-azure-mls
+title: 04-Run a K Nearest Neighbor Model with Scikit
+metadata:
+  title: Run a K Nearest Neighbor Model with Scikit-Learn - Learn
+  description:
+  - Run a K Nearest Neighbor Model with ScikitLearn  Learn
+  ms.date: 1/31/2019 12:00:00 AM
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOT: NOINDEX
+durationInMinitues: 3
+content: |
+ [!include(includes/4-k-nearest-sklearn.md)]
